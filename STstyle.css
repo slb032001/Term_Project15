@@ -1,4 +1,4 @@
-h1,h2, #topSection > p
+h1,h2,#p1
 {text-align: center;}
 body{background-color: lightgray;}
 
@@ -7,3 +7,9 @@ body{background-color: lightgray;}
     padding-right: 30px;
     padding-bottom: 30px;
     padding-left: 30px;}
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
