@@ -13,7 +13,8 @@ body
     padding-bottom: 30px;
     padding-left: 30px;}
 
- blockquote {
+ blockquote,#Lacrosse,#Soccer,#Track
+  {
         margin-left: 5rem;
         border-left: 1 rem solid #ffffff;
         text-align: center;
